@@ -6,3 +6,4 @@ A simple Go project demonstrating GitHub Actions CI/CD pipeline implementation.
 
 - Automated CI/CD pipeline using GitHub Actions
 - Go linting and build verification
+- Copilot review on PR
